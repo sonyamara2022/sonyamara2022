@@ -1,7 +1,8 @@
- # Sobre mim.
- ## Meu perfil:
- 
-Ola sou sonyamara zamilian
-Tenho 15 anos 
-estudo na escola do campo henrique denck 
-estou comecando agora com essa prataforma 
+- # Sobre mim.
+- ## Meu perfil:
+- :2 Eu sou **@sonyamara2022**
+- 👍 Meu email de contato sonyamara.zamilian@escola.pr.gov.br
+- Ola sou sonyamara zamilian
+- Tenho 15 anos 
+- Estudo na escola do campo henrique denck 
+- Estou comecando agora com essa prataforma 
