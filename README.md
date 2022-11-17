@@ -5,4 +5,4 @@
 - Ola sou sonyamara zamilian
 - Tenho 15 anos 
 - Estudo na escola do campo henrique denck 
-- Estou comecando agora com essa prataforma 
+- Estou comecando agora com essa prataforma  
